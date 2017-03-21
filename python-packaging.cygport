@@ -1,0 +1,10 @@
+inherit python-wheel
+
+NAME="python-packaging"
+VERSION=16.8
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python core packaging module"
+DESCRIPTION="Core utilities module for Python packages"
+
+ARCH=noarch
